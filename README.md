@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Adaijah<h1>Hi, I'm Jane, an <a href="https://linkedin.com/in/JaneDoe">IT Professional</a>☺</h1>
+### Hi there 👋 My name is Adaijah
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
